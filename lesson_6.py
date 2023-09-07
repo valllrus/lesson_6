@@ -21,10 +21,6 @@
 
 # from random import randint
 
-# numbers = []
-# for i in range(6):
-#     numbers.append(randint(5, 30))
-
 numbers = [5, 10, 15, 20, 25, 30]
 min_value = 5
 max_value = 25
